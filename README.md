@@ -11,6 +11,7 @@ Sistema desenvolvido em Python para a empresa de marketing TudoWeb, com o objeti
 
 O programa coleta nome, idade e opinião de cada entrevistado e, ao final, exibe a quantidade de respostas EXCELENTE e RUIM.
 
+
 🎯 Objetivo
 
 Coletar dados de 50 entrevistados;
@@ -21,6 +22,7 @@ Contar quantas respostas foram EXCELENTE e quantas foram RUIM;
 
 Exibir o resultado final ao término da pesquisa.
 
+
 📋 Regras de Opinião
 
 Código	Opinião
@@ -30,6 +32,7 @@ Código	Opinião
 2	BOM
 
 3	RUIM
+
 
 🛠️ Tecnologias Utilizadas
 
